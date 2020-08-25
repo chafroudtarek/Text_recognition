@@ -1,4 +1,4 @@
-# textrecogn
+# Text recognition
 
 A new Flutter project.
 
